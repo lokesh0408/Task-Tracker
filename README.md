@@ -35,4 +35,4 @@
 # _Author_
 
 - Lokesh Jindal (lokeshjindal, lokeshjindal997@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/lokesh-jindal04/)
+  - [LinkedIn](https://www.linkedin.com/in/lokesh-kumar04/)
